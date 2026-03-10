@@ -3,7 +3,6 @@
 A simple and interactive **News Application** built using **Python and Flask** that fetches and displays the latest news articles. The app allows users to view current news updates with a clean and responsive interface.
 
 ---
-
 ## 🚀 Features
 
 * 📰 Fetches latest news articles
